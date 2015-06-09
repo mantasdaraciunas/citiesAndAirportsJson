@@ -1,4 +1,4 @@
-{
+[{
         "iso":"IS",
         "country":"Iceland",
         "continent":"EU",
@@ -1224,5 +1224,6 @@
         "city":"Rønne",
         "airports":[{"iata":"RNN"},
         ]
-        },
+        }
+]
         

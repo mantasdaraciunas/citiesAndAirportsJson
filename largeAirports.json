@@ -1,4 +1,4 @@
-{
+[{
         "iso":"IS",
         "country":"Iceland",
         "continent":"EU",
@@ -908,5 +908,6 @@
         "continent":"EU",
         "city":"Samara, Russia",
         "airports":[{"iata":"KUF"}]
-        },
+        }
+]
         
