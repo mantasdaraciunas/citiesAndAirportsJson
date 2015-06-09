@@ -1,26 +1,23 @@
-{
+[{
         "iso":"IS",
         "country":"Iceland",
         "continent":"EU",
         "city":"Akureyri",
-        "airports":[{"iata":"AEY"},
-        ]
+        "airports":[{"iata":"AEY"}]
         },
         {
         "iso":"IS",
         "country":"Iceland",
         "continent":"EU",
         "city":"Höfn",
-        "airports":[{"iata":"HFN"},
-        ]
+        "airports":[{"iata":"HFN"}]
         },
         {
         "iso":"IS",
         "country":"Iceland",
         "continent":"EU",
         "city":"Húsavík",
-        "airports":[{"iata":"HZK"},
-        ]
+        "airports":[{"iata":"HZK"}]
         },
         {
         "iso":"IS",
@@ -28,8 +25,7 @@
         "continent":"EU",
         "city":"Patreksfjordur",
         "airports":[{"iata":"PFJ"},
-        {"iata":"PFJ"},
-        ]
+        {"iata":"PFJ"}]
         },
         {
         "iso":"IS",
@@ -37,8 +33,7 @@
         "continent":"EU",
         "city":"Reykjavík",
         "airports":[{"iata":"REK"},
-        {"iata":"REK"},
-        ]
+        {"iata":"REK"}]
         },
         {
         "iso":"IS",
@@ -46,8 +41,7 @@
         "continent":"EU",
         "city":"Siglufjörður",
         "airports":[{"iata":"SIJ"},
-        {"iata":"SIJ"},
-        ]
+        {"iata":"SIJ"}]
         },
         {
         "iso":"IS",
@@ -55,8 +49,7 @@
         "continent":"EU",
         "city":"Vestmannaeyjar",
         "airports":[{"iata":"VEY"},
-        {"iata":"VEY"},
-        ]
+        {"iata":"VEY"}]
         },
         {
         "iso":"BE",
@@ -64,8 +57,7 @@
         "continent":"EU",
         "city":"Antwerp / Deurne, Belgium",
         "airports":[{"iata":"ANR"},
-        {"iata":"ANR"},
-        ]
+        {"iata":"ANR"}]
         },
         {
         "iso":"BE",
@@ -73,8 +65,7 @@
         "continent":"EU",
         "city":"Charleroi",
         "airports":[{"iata":"CRL"},
-        {"iata":"CRL"},
-        ]
+        {"iata":"CRL"}]
         },
         {
         "iso":"BE",
@@ -82,8 +73,7 @@
         "continent":"EU",
         "city":"Kortrijk / Wevelgem",
         "airports":[{"iata":"KJK"},
-        {"iata":"KJK"},
-        ]
+        {"iata":"KJK"}]
         },
         {
         "iso":"BE",
@@ -91,8 +81,7 @@
         "continent":"EU",
         "city":"Ostend",
         "airports":[{"iata":"OST"},
-        {"iata":"OST"},
-        ]
+        {"iata":"OST"}]
         },
         {
         "iso":"DE",
@@ -100,336 +89,294 @@
         "continent":"EU",
         "city":"Altenburg/Leipzig",
         "airports":[{"iata":"AOC"},
-        {"iata":"AOC"},
-        ]
+        {"iata":"AOC"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Cottbus",
-        "airports":[{"iata":"CBU"},
-        ]
+        "airports":[{"iata":"CBU"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Erfurt",
-        "airports":[{"iata":"ERF"},
-        ]
+        "airports":[{"iata":"ERF"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Hesse",
-        "airports":[{"iata":"QEF"},
-        ]
+        "airports":[{"iata":"QEF"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Rhineland-Palatinate",
-        "airports":[{"iata":"HHN"},
-        ]
+        "airports":[{"iata":"HHN"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Mannheim",
-        "airports":[{"iata":"MHG"},
-        ]
+        "airports":[{"iata":"MHG"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Mainz",
-        "airports":[{"iata":"QMZ"},
-        ]
+        "airports":[{"iata":"QMZ"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Burbach",
-        "airports":[{"iata":"SGE"},
-        ]
+        "airports":[{"iata":"SGE"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Hamburg",
-        "airports":[{"iata":"XFW"},
-        ]
+        "airports":[{"iata":"XFW"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Kiel",
-        "airports":[{"iata":"KEL"},
-        ]
+        "airports":[{"iata":"KEL"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Memmingen",
-        "airports":[{"iata":"FMM"},
-        ]
+        "airports":[{"iata":"FMM"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Paderborn / Lippstadt",
-        "airports":[{"iata":"PAD"},
-        ]
+        "airports":[{"iata":"PAD"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Weeze",
-        "airports":[{"iata":"NRN"},
-        ]
+        "airports":[{"iata":"NRN"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Augsburg",
-        "airports":[{"iata":"AGB"},
-        ]
+        "airports":[{"iata":"AGB"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Friedrichshafen",
-        "airports":[{"iata":"FDH"},
-        ]
+        "airports":[{"iata":"FDH"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Parchim",
-        "airports":[{"iata":"SZW"},
-        ]
+        "airports":[{"iata":"SZW"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Bayreuth",
-        "airports":[{"iata":"BYU"},
-        ]
+        "airports":[{"iata":"BYU"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Hof",
-        "airports":[{"iata":"HOQ"},
-        ]
+        "airports":[{"iata":"HOQ"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Lahr",
-        "airports":[{"iata":"LHA"},
-        ]
+        "airports":[{"iata":"LHA"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Braunschweig, Lower Saxony",
-        "airports":[{"iata":"BWE"},
-        ]
+        "airports":[{"iata":"BWE"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Kassel",
-        "airports":[{"iata":"KSF"},
-        ]
+        "airports":[{"iata":"KSF"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Westerland, Sylt",
-        "airports":[{"iata":"GWT"},
-        ]
+        "airports":[{"iata":"GWT"}]
         },
         {
         "iso":"EE",
         "country":"Estonia",
         "continent":"EU",
         "city":"Kuressaare, Saaremaa",
-        "airports":[{"iata":"URE"},
-        ]
+        "airports":[{"iata":"URE"}]
         },
         {
         "iso":"EE",
         "country":"Estonia",
         "continent":"EU",
         "city":"Tartu",
-        "airports":[{"iata":"TAY"},
-        ]
+        "airports":[{"iata":"TAY"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Enontekiö",
-        "airports":[{"iata":"ENF"},
-        ]
+        "airports":[{"iata":"ENF"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Kuorevesi",
-        "airports":[{"iata":"KEV"},
-        ]
+        "airports":[{"iata":"KEV"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Helsinki",
-        "airports":[{"iata":"HEM"},
-        ]
+        "airports":[{"iata":"HEM"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Hyvinkää",
-        "airports":[{"iata":"HYV"},
-        ]
+        "airports":[{"iata":"HYV"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Kitee",
-        "airports":[{"iata":"KTQ"},
-        ]
+        "airports":[{"iata":"KTQ"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Ivalo / Inari",
-        "airports":[{"iata":"IVL"},
-        ]
+        "airports":[{"iata":"IVL"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Joensuu / Liperi",
-        "airports":[{"iata":"JOE"},
-        ]
+        "airports":[{"iata":"JOE"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Jyväskylän maalaiskunta",
-        "airports":[{"iata":"JYV"},
-        ]
+        "airports":[{"iata":"JYV"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Kauhava",
-        "airports":[{"iata":"KAU"},
-        ]
+        "airports":[{"iata":"KAU"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Kemi / Tornio",
-        "airports":[{"iata":"KEM"},
-        ]
+        "airports":[{"iata":"KEM"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Kajaani",
-        "airports":[{"iata":"KAJ"},
-        ]
+        "airports":[{"iata":"KAJ"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Kauhajoki",
-        "airports":[{"iata":"KHJ"},
-        ]
+        "airports":[{"iata":"KHJ"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Kronoby / Kokkola / Jakobstad",
-        "airports":[{"iata":"KOK"},
-        ]
+        "airports":[{"iata":"KOK"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Kuusamo",
-        "airports":[{"iata":"KAO"},
-        ]
+        "airports":[{"iata":"KAO"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Kittilä",
-        "airports":[{"iata":"KTT"},
-        ]
+        "airports":[{"iata":"KTT"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Kuopio / Siilinjärvi",
-        "airports":[{"iata":"KUO"},
-        ]
+        "airports":[{"iata":"KUO"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Lappeenranta",
-        "airports":[{"iata":"LPP"},
-        ]
+        "airports":[{"iata":"LPP"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Mariehamn",
-        "airports":[{"iata":"MHQ"},
-        ]
+        "airports":[{"iata":"MHQ"}]
         },
         {
         "iso":"FI",
@@ -437,504 +384,441 @@
         "continent":"EU",
         "city":"Mikkeli",
         "airports":[{"iata":"MIK"},
-        {"iata":"MIK"},
-        ]
+        {"iata":"MIK"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Oulunsalo",
-        "airports":[{"iata":"OUL"},
-        ]
+        "airports":[{"iata":"OUL"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Pori",
-        "airports":[{"iata":"POR"},
-        ]
+        "airports":[{"iata":"POR"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Rovaniemi &#160;",
-        "airports":[{"iata":"RVN"},
-        ]
+        "airports":[{"iata":"RVN"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Savonlinna",
-        "airports":[{"iata":"SVL"},
-        ]
+        "airports":[{"iata":"SVL"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Sodankylä",
-        "airports":[{"iata":"SOT"},
-        ]
+        "airports":[{"iata":"SOT"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Tampere / Pirkkala",
-        "airports":[{"iata":"TMP"},
-        ]
+        "airports":[{"iata":"TMP"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Turku",
-        "airports":[{"iata":"TKU"},
-        ]
+        "airports":[{"iata":"TKU"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Utti / Valkeala",
-        "airports":[{"iata":"UTI"},
-        ]
+        "airports":[{"iata":"UTI"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Vaasa",
-        "airports":[{"iata":"VAA"},
-        ]
+        "airports":[{"iata":"VAA"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Varkaus / Joroinen",
-        "airports":[{"iata":"VRK"},
-        ]
+        "airports":[{"iata":"VRK"}]
         },
         {
         "iso":"FI",
         "country":"Finland",
         "continent":"EU",
         "city":"Ylivieska",
-        "airports":[{"iata":"YLI"},
-        ]
+        "airports":[{"iata":"YLI"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Enniskillen, Northern Ireland",
-        "airports":[{"iata":"ENK"},
-        ]
+        "airports":[{"iata":"ENK"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Derry, Northern Ireland",
-        "airports":[{"iata":"LDY"},
-        ]
+        "airports":[{"iata":"LDY"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Coventry, England",
-        "airports":[{"iata":"CVT"},
-        ]
+        "airports":[{"iata":"CVT"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Staverton, England",
-        "airports":[{"iata":"GLO"},
-        ]
+        "airports":[{"iata":"GLO"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Nottingham, England",
-        "airports":[{"iata":"NQT"},
-        ]
+        "airports":[{"iata":"NQT"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Wiltshire, England",
-        "airports":[{"iata":"LYE"},
-        ]
+        "airports":[{"iata":"LYE"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"St Athan, Wales",
-        "airports":[{"iata":"DGX"},
-        ]
+        "airports":[{"iata":"DGX"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Yeovil, England",
-        "airports":[{"iata":"YEO"},
-        ]
+        "airports":[{"iata":"YEO"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Campbeltown, Scotland",
-        "airports":[{"iata":"CAL"},
-        ]
+        "airports":[{"iata":"CAL"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Eday, Scotland",
-        "airports":[{"iata":"EOI"},
-        ]
+        "airports":[{"iata":"EOI"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Fair Isle, Scotland",
-        "airports":[{"iata":"FIE"},
-        ]
+        "airports":[{"iata":"FIE"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Haverfordwest, Wales",
-        "airports":[{"iata":"HAW"},
-        ]
+        "airports":[{"iata":"HAW"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Swansea, Wales",
-        "airports":[{"iata":"SWS"},
-        ]
+        "airports":[{"iata":"SWS"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"St Just in Penwith, England",
-        "airports":[{"iata":"LEQ"},
-        ]
+        "airports":[{"iata":"LEQ"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Plymouth, England",
-        "airports":[{"iata":"PLH"},
-        ]
+        "airports":[{"iata":"PLH"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"St. Mary's, England",
-        "airports":[{"iata":"ISC"},
-        ]
+        "airports":[{"iata":"ISC"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Basingstoke, England",
-        "airports":[{"iata":"QLA"},
-        ]
+        "airports":[{"iata":"QLA"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Newquay, England",
-        "airports":[{"iata":"NQY"},
-        ]
+        "airports":[{"iata":"NQY"}]
         },
         {
         "iso":"GG",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Alderney, Channel Islands",
-        "airports":[{"iata":"ACI"},
-        ]
+        "airports":[{"iata":"ACI"}]
         },
         {
         "iso":"GG",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Guernsey, Channel Islands",
-        "airports":[{"iata":"GCI"},
-        ]
+        "airports":[{"iata":"GCI"}]
         },
         {
         "iso":"JE",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Jersey, Channel Islands",
-        "airports":[{"iata":"JER"},
-        ]
+        "airports":[{"iata":"JER"}]
         },
         {
         "iso":"GB",
         "country":"Saudi Arabia",
         "continent":"EU",
         "city":"Sharurah (also known as Sharorah)",
-        "airports":[{"iata":"ESH"},
-        ]
+        "airports":[{"iata":"ESH"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"London, England",
-        "airports":[{"iata":"BQH"},
-        ]
+        "airports":[{"iata":"BQH"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Farnborough, England",
-        "airports":[{"iata":"FAB"},
-        ]
+        "airports":[{"iata":"FAB"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Camberley, England",
-        "airports":[{"iata":"BBS"},
-        ]
+        "airports":[{"iata":"BBS"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Southend-on-Sea, England",
-        "airports":[{"iata":"SEN"},
-        ]
+        "airports":[{"iata":"SEN"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Lydd, England",
-        "airports":[{"iata":"LYX"},
-        ]
+        "airports":[{"iata":"LYX"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Canterbury, England",
-        "airports":[{"iata":"MSE"},
-        ]
+        "airports":[{"iata":"MSE"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Carlisle, England",
-        "airports":[{"iata":"CAX"},
-        ]
+        "airports":[{"iata":"CAX"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Blackpool, England",
-        "airports":[{"iata":"BLK"},
-        ]
+        "airports":[{"iata":"BLK"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Kingston upon Hull, England",
-        "airports":[{"iata":"HUY"},
-        ]
+        "airports":[{"iata":"HUY"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Barrow-in-Furness, England",
-        "airports":[{"iata":"BWF"},
-        ]
+        "airports":[{"iata":"BWF"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Chester, England",
-        "airports":[{"iata":"CEG"},
-        ]
+        "airports":[{"iata":"CEG"}]
         },
         {
         "iso":"IM",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Isle of Man",
-        "airports":[{"iata":"IOM"},
-        ]
+        "airports":[{"iata":"IOM"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Tees Valley, England",
-        "airports":[{"iata":"MME"},
-        ]
+        "airports":[{"iata":"MME"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Anglesey",
-        "airports":[{"iata":"HLY"},
-        ]
+        "airports":[{"iata":"HLY"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Kirkwall, Scotland",
-        "airports":[{"iata":"KOI"},
-        ]
+        "airports":[{"iata":"KOI"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Shetland Islands, Scotland",
-        "airports":[{"iata":"LSI"},
-        ]
+        "airports":[{"iata":"LSI"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Wick, Scotland",
-        "airports":[{"iata":"WIC"},
-        ]
+        "airports":[{"iata":"WIC"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Inverness, Scotland",
-        "airports":[{"iata":"INV"},
-        ]
+        "airports":[{"iata":"INV"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Islay, Scotland",
-        "airports":[{"iata":"ILY"},
-        ]
+        "airports":[{"iata":"ILY"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Glasgow, Scotland",
-        "airports":[{"iata":"PIK"},
-        ]
+        "airports":[{"iata":"PIK"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Benbecula, Scotland",
-        "airports":[{"iata":"BEB"},
-        ]
+        "airports":[{"iata":"BEB"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Lerwick, Scotland",
-        "airports":[{"iata":"SCS"},
-        ]
+        "airports":[{"iata":"SCS"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Dundee, Scotland",
-        "airports":[{"iata":"DND"},
-        ]
+        "airports":[{"iata":"DND"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Stornoway, Scotland",
-        "airports":[{"iata":"SYY"},
-        ]
+        "airports":[{"iata":"SYY"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Barra, Scotland",
-        "airports":[{"iata":"BRR"},
-        ]
+        "airports":[{"iata":"BRR"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Tiree, Scotland",
-        "airports":[{"iata":"TRE"},
-        ]
+        "airports":[{"iata":"TRE"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Kinloss, Scotland",
-        "airports":[{"iata":"FSS"},
-        ]
+        "airports":[{"iata":"FSS"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Leuchars, Scotland",
-        "airports":[{"iata":"ADX"},
-        ]
+        "airports":[{"iata":"ADX"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Lossiemouth, Scotland",
-        "airports":[{"iata":"LMO"},
-        ]
+        "airports":[{"iata":"LMO"}]
         },
         {
         "iso":"GB",
@@ -942,296 +826,259 @@
         "continent":"EU",
         "city":"Cambridge, England",
         "airports":[{"iata":"CBG"},
-        {"iata":"QFO"},
-        ]
+        {"iata":"QFO"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Norwich, England",
-        "airports":[{"iata":"NWI"},
-        ]
+        "airports":[{"iata":"NWI"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Filton, England",
-        "airports":[{"iata":"FZO"},
-        ]
+        "airports":[{"iata":"FZO"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Oxford, England",
-        "airports":[{"iata":"OXF"},
-        ]
+        "airports":[{"iata":"OXF"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Benson, Oxfordshire, England",
-        "airports":[{"iata":"BEX"},
-        ]
+        "airports":[{"iata":"BEX"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"St Ives, England",
-        "airports":[{"iata":"QUY"},
-        ]
+        "airports":[{"iata":"QUY"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Odiham, England",
-        "airports":[{"iata":"ODH"},
-        ]
+        "airports":[{"iata":"ODH"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Ruislip, England",
-        "airports":[{"iata":"NHT"},
-        ]
+        "airports":[{"iata":"NHT"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Coningsby, England",
-        "airports":[{"iata":"QCY"},
-        ]
+        "airports":[{"iata":"QCY"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Thetford, England",
-        "airports":[{"iata":"BEQ"},
-        ]
+        "airports":[{"iata":"BEQ"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Scampton, England",
-        "airports":[{"iata":"SQZ"},
-        ]
+        "airports":[{"iata":"SQZ"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Linton-on-Ouse, England",
-        "airports":[{"iata":"HRT"},
-        ]
+        "airports":[{"iata":"HRT"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Waddington, England",
-        "airports":[{"iata":"WTN"},
-        ]
+        "airports":[{"iata":"WTN"}]
         },
         {
         "iso":"GB",
         "country":"United Kingdom",
         "continent":"EU",
         "city":"Marham, England",
-        "airports":[{"iata":"MRH"},
-        ]
+        "airports":[{"iata":"MRH"}]
         },
         {
         "iso":"NL",
         "country":"Netherlands",
         "continent":"EU",
         "city":"Eelde",
-        "airports":[{"iata":"GRQ"},
-        ]
+        "airports":[{"iata":"GRQ"}]
         },
         {
         "iso":"NL",
         "country":"Netherlands",
         "continent":"EU",
         "city":"Gilze and Rijen",
-        "airports":[{"iata":"GLZ"},
-        ]
+        "airports":[{"iata":"GLZ"}]
         },
         {
         "iso":"NL",
         "country":"Netherlands",
         "continent":"EU",
         "city":"Den Helder",
-        "airports":[{"iata":"DHR"},
-        ]
+        "airports":[{"iata":"DHR"}]
         },
         {
         "iso":"NL",
         "country":"Netherlands",
         "continent":"EU",
         "city":"Lelystad",
-        "airports":[{"iata":"LEY"},
-        ]
+        "airports":[{"iata":"LEY"}]
         },
         {
         "iso":"NL",
         "country":"Netherlands",
         "continent":"EU",
         "city":"Rotterdam",
-        "airports":[{"iata":"RTM"},
-        ]
+        "airports":[{"iata":"RTM"}]
         },
         {
         "iso":"NL",
         "country":"Netherlands",
         "continent":"EU",
         "city":"Enschede",
-        "airports":[{"iata":"ENS"},
-        ]
+        "airports":[{"iata":"ENS"}]
         },
         {
         "iso":"NL",
         "country":"United States",
         "continent":"EU",
         "city":"Darlington, SC",
-        "airports":[{"iata":"UDE"},
-        ]
+        "airports":[{"iata":"UDE"}]
         },
         {
         "iso":"NL",
         "country":"Netherlands",
         "continent":"EU",
         "city":"Woensdrecht",
-        "airports":[{"iata":"WOE"},
-        ]
+        "airports":[{"iata":"WOE"}]
         },
         {
         "iso":"IE",
         "country":"Ireland",
         "continent":"EU",
         "city":"Carnmore, County Galway",
-        "airports":[{"iata":"GWY"},
-        ]
+        "airports":[{"iata":"GWY"}]
         },
         {
         "iso":"IE",
         "country":"Ireland",
         "continent":"EU",
         "city":"Carrickfinn, County Donegal",
-        "airports":[{"iata":"CFN"},
-        ]
+        "airports":[{"iata":"CFN"}]
         },
         {
         "iso":"IE",
         "country":"Ireland",
         "continent":"EU",
         "city":"Knock, County Mayo",
-        "airports":[{"iata":"NOC"},
-        ]
+        "airports":[{"iata":"NOC"}]
         },
         {
         "iso":"IE",
         "country":"Ireland",
         "continent":"EU",
         "city":"Farranfore, County Kerry",
-        "airports":[{"iata":"KIR"},
-        ]
+        "airports":[{"iata":"KIR"}]
         },
         {
         "iso":"IE",
         "country":"Ireland",
         "continent":"EU",
         "city":"Strandhill, near Sligo",
-        "airports":[{"iata":"SXL"},
-        ]
+        "airports":[{"iata":"SXL"}]
         },
         {
         "iso":"IE",
         "country":"Ireland",
         "continent":"EU",
         "city":"Waterford",
-        "airports":[{"iata":"WAT"},
-        ]
+        "airports":[{"iata":"WAT"}]
         },
         {
         "iso":"DK",
         "country":"Denmark",
         "continent":"EU",
         "city":"Tirstrup near Aarhus",
-        "airports":[{"iata":"AAR"},
-        ]
+        "airports":[{"iata":"AAR"}]
         },
         {
         "iso":"DK",
         "country":"Denmark",
         "continent":"EU",
         "city":"Esbjerg",
-        "airports":[{"iata":"EBJ"},
-        ]
+        "airports":[{"iata":"EBJ"}]
         },
         {
         "iso":"DK",
         "country":"Denmark",
         "continent":"EU",
         "city":"Karup",
-        "airports":[{"iata":"KRP"},
-        ]
+        "airports":[{"iata":"KRP"}]
         },
         {
         "iso":"DK",
         "country":"Denmark",
         "continent":"EU",
         "city":"Lolland Falster Maribo",
-        "airports":[{"iata":"MRW"},
-        ]
+        "airports":[{"iata":"MRW"}]
         },
         {
         "iso":"DK",
         "country":"Denmark",
         "continent":"EU",
         "city":"Odense",
-        "airports":[{"iata":"ODE"},
-        ]
+        "airports":[{"iata":"ODE"}]
         },
         {
         "iso":"DK",
         "country":"Denmark",
         "continent":"EU",
         "city":"Tune near Roskilde",
-        "airports":[{"iata":"RKE"},
-        ]
+        "airports":[{"iata":"RKE"}]
         },
         {
         "iso":"DK",
         "country":"Denmark",
         "continent":"EU",
         "city":"Rønne",
-        "airports":[{"iata":"RNN"},
-        ]
+        "airports":[{"iata":"RNN"}]
         },
         {
         "iso":"DK",
         "country":"Denmark",
         "continent":"EU",
         "city":"Sindal",
-        "airports":[{"iata":"CNL"},
-        ]
+        "airports":[{"iata":"CNL"}]
         },
         {
         "iso":"DK",
         "country":"Denmark",
         "continent":"EU",
         "city":"Vojens",
-        "airports":[{"iata":"SKS"},
-        ]
+        "airports":[{"iata":"SKS"}]
         },
         {
         "iso":"DK",
@@ -1239,952 +1086,833 @@
         "continent":"EU",
         "city":"",
         "airports":[{"iata":"SQW"},
-        {"iata":"LBG"},
-        ]
+        {"iata":"LBG"}]
         },
         {
         "iso":"DK",
         "country":"Denmark",
         "continent":"EU",
         "city":"Thisted",
-        "airports":[{"iata":"TED"},
-        ]
+        "airports":[{"iata":"TED"}]
         },
         {
         "iso":"DK",
         "country":"Denmark",
         "continent":"EU",
         "city":"Kolding",
-        "airports":[{"iata":"VDP"},
-        ]
+        "airports":[{"iata":"VDP"}]
         },
         {
         "iso":"FO",
         "country":"Faroe Islands",
         "continent":"EU",
         "city":"Faroe Islands",
-        "airports":[{"iata":"FAE"},
-        ]
+        "airports":[{"iata":"FAE"}]
         },
         {
         "iso":"DK",
         "country":"Denmark",
         "continent":"EU",
         "city":"Skjern",
-        "airports":[{"iata":"STA"},
-        ]
+        "airports":[{"iata":"STA"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Alta, Finnmark",
-        "airports":[{"iata":"ALF"},
-        ]
+        "airports":[{"iata":"ALF"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Kristiansand, Vest-Agder",
-        "airports":[{"iata":"KRS"},
-        ]
+        "airports":[{"iata":"KRS"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Bardufoss, Troms",
-        "airports":[{"iata":"BDU"},
-        ]
+        "airports":[{"iata":"BDU"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Evenes, Nordland / Troms",
-        "airports":[{"iata":"EVE"},
-        ]
+        "airports":[{"iata":"EVE"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Fagernes, Oppland",
-        "airports":[{"iata":"VDB"},
-        ]
+        "airports":[{"iata":"VDB"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Haugesund, Rogaland",
-        "airports":[{"iata":"HAU"},
-        ]
+        "airports":[{"iata":"HAU"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Hammerfest, Finnmark",
-        "airports":[{"iata":"HFT"},
-        ]
+        "airports":[{"iata":"HFT"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Honningsvåg, Finnmark",
-        "airports":[{"iata":"HVG"},
-        ]
+        "airports":[{"iata":"HVG"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Kristiansund, Møre og Romsdal",
-        "airports":[{"iata":"KSU"},
-        ]
+        "airports":[{"iata":"KSU"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Leknes, Nordland",
-        "airports":[{"iata":"LKN"},
-        ]
+        "airports":[{"iata":"LKN"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Mehamn, Finnmark",
-        "airports":[{"iata":"MEH"},
-        ]
+        "airports":[{"iata":"MEH"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Molde, Møre og Romsdal",
-        "airports":[{"iata":"MOL"},
-        ]
+        "airports":[{"iata":"MOL"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Lakselv, Finnmark",
-        "airports":[{"iata":"LKL"},
-        ]
+        "airports":[{"iata":"LKL"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Narvik, Nordland",
-        "airports":[{"iata":"NVK"},
-        ]
+        "airports":[{"iata":"NVK"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Notodden",
-        "airports":[{"iata":"NTB"},
-        ]
+        "airports":[{"iata":"NTB"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Rygge",
-        "airports":[{"iata":"RYG"},
-        ]
+        "airports":[{"iata":"RYG"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Longyearbyen, Svalbard",
-        "airports":[{"iata":"LYR"},
-        ]
+        "airports":[{"iata":"LYR"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Stokmarknes, Nordland",
-        "airports":[{"iata":"SKN"},
-        ]
+        "airports":[{"iata":"SKN"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Skien, Telemark",
-        "airports":[{"iata":"SKE"},
-        ]
+        "airports":[{"iata":"SKE"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Leirvik, Hordaland",
-        "airports":[{"iata":"SRP"},
-        ]
+        "airports":[{"iata":"SRP"}]
         },
         {
         "iso":"NO",
         "country":"Norway",
         "continent":"EU",
         "city":"Sandefjord, Vestfold",
-        "airports":[{"iata":"TRF"},
-        ]
+        "airports":[{"iata":"TRF"}]
         },
         {
         "iso":"PL",
         "country":"Poland",
         "continent":"EU",
         "city":"Bydgoszcz",
-        "airports":[{"iata":"BZG"},
-        ]
+        "airports":[{"iata":"BZG"}]
         },
         {
         "iso":"PL",
         "country":"Poland",
         "continent":"EU",
         "city":"Katowice",
-        "airports":[{"iata":"KTW"},
-        ]
+        "airports":[{"iata":"KTW"}]
         },
         {
         "iso":"PL",
         "country":"Poland",
         "continent":"EU",
         "city":"Poznań",
-        "airports":[{"iata":"POZ"},
-        ]
+        "airports":[{"iata":"POZ"}]
         },
         {
         "iso":"PL",
         "country":"Poland",
         "continent":"EU",
         "city":"Wroclaw",
-        "airports":[{"iata":"WRO"},
-        ]
+        "airports":[{"iata":"WRO"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Ronneby",
-        "airports":[{"iata":"RNB"},
-        ]
+        "airports":[{"iata":"RNB"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Göteborg",
-        "airports":[{"iata":"GSE"},
-        ]
+        "airports":[{"iata":"GSE"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Karlskoga",
-        "airports":[{"iata":"KSK"},
-        ]
+        "airports":[{"iata":"KSK"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Mora",
-        "airports":[{"iata":"MXX"},
-        ]
+        "airports":[{"iata":"MXX"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Stockholm / Nyköping",
-        "airports":[{"iata":"NYO"},
-        ]
+        "airports":[{"iata":"NYO"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Kristianstad",
-        "airports":[{"iata":"KID"},
-        ]
+        "airports":[{"iata":"KID"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Oskarshamn",
-        "airports":[{"iata":"OSK"},
-        ]
+        "airports":[{"iata":"OSK"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Kalmar",
-        "airports":[{"iata":"KLR"},
-        ]
+        "airports":[{"iata":"KLR"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Halmstad",
-        "airports":[{"iata":"HAD"},
-        ]
+        "airports":[{"iata":"HAD"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Sveg",
-        "airports":[{"iata":"EVG"},
-        ]
+        "airports":[{"iata":"EVG"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Lycksele",
-        "airports":[{"iata":"LYC"},
-        ]
+        "airports":[{"iata":"LYC"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Kiruna",
-        "airports":[{"iata":"KRN"},
-        ]
+        "airports":[{"iata":"KRN"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Vilhelmina",
-        "airports":[{"iata":"VHM"},
-        ]
+        "airports":[{"iata":"VHM"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Arvidsjaur",
-        "airports":[{"iata":"AJR"},
-        ]
+        "airports":[{"iata":"AJR"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Hagfors",
-        "airports":[{"iata":"HFS"},
-        ]
+        "airports":[{"iata":"HFS"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Karlstad",
-        "airports":[{"iata":"KSD"},
-        ]
+        "airports":[{"iata":"KSD"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Stockholm",
-        "airports":[{"iata":"BMA"},
-        ]
+        "airports":[{"iata":"BMA"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Borlänge",
-        "airports":[{"iata":"BLE"},
-        ]
+        "airports":[{"iata":"BLE"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Hultsfred / Vimmerby",
-        "airports":[{"iata":"HLF"},
-        ]
+        "airports":[{"iata":"HLF"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Torsby",
-        "airports":[{"iata":"TYF"},
-        ]
+        "airports":[{"iata":"TYF"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Eskilstuna",
-        "airports":[{"iata":"EKT"},
-        ]
+        "airports":[{"iata":"EKT"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Visby",
-        "airports":[{"iata":"VBY"},
-        ]
+        "airports":[{"iata":"VBY"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Storuman",
-        "airports":[{"iata":"SQO"},
-        ]
+        "airports":[{"iata":"SQO"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Pajala",
-        "airports":[{"iata":"PJA"},
-        ]
+        "airports":[{"iata":"PJA"}]
         },
         {
         "iso":"SE",
         "country":"Sweden",
         "continent":"EU",
         "city":"Hemavan",
-        "airports":[{"iata":"HMV"},
-        ]
+        "airports":[{"iata":"HMV"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Spangdahlem",
-        "airports":[{"iata":"SPM"},
-        ]
+        "airports":[{"iata":"SPM"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Rhine",
-        "airports":[{"iata":"ZPQ"},
-        ]
+        "airports":[{"iata":"ZPQ"}]
         },
         {
         "iso":"DE",
         "country":"United States",
         "continent":"EU",
         "city":"Milton, FL",
-        "airports":[{"iata":"NDZ"},
-        ]
+        "airports":[{"iata":"NDZ"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Geilenkirchen",
-        "airports":[{"iata":"GKE"},
-        ]
+        "airports":[{"iata":"GKE"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Rostock",
-        "airports":[{"iata":"RLG"},
-        ]
+        "airports":[{"iata":"RLG"}]
         },
         {
         "iso":"DE",
         "country":"United States",
         "continent":"EU",
         "city":"Falls City, NE",
-        "airports":[{"iata":"FNB"},
-        ]
+        "airports":[{"iata":"FNB"}]
         },
         {
         "iso":"DE",
         "country":"Germany",
         "continent":"EU",
         "city":"Ingolstadt",
-        "airports":[{"iata":"IGS"},
-        ]
+        "airports":[{"iata":"IGS"}]
         },
         {
         "iso":"LV",
         "country":"Latvia",
         "continent":"EU",
         "city":"Liepaja",
-        "airports":[{"iata":"LPX"},
-        ]
+        "airports":[{"iata":"LPX"}]
         },
         {
         "iso":"LT",
         "country":"Lithuania",
         "continent":"EU",
         "city":"Kaunas",
-        "airports":[{"iata":"KUN"},
-        ]
+        "airports":[{"iata":"KUN"}]
         },
         {
         "iso":"LT",
         "country":"Lithuania",
         "continent":"EU",
         "city":"Palanga",
-        "airports":[{"iata":"PLQ"},
-        ]
+        "airports":[{"iata":"PLQ"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Fuerteventura",
-        "airports":[{"iata":"FUE"},
-        ]
+        "airports":[{"iata":"FUE"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"El Hierro",
-        "airports":[{"iata":"VDE"},
-        ]
+        "airports":[{"iata":"VDE"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"La Palma",
-        "airports":[{"iata":"SPC"},
-        ]
+        "airports":[{"iata":"SPC"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Arrecife",
-        "airports":[{"iata":"ACE"},
-        ]
+        "airports":[{"iata":"ACE"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Melilla",
-        "airports":[{"iata":"MLN"},
-        ]
+        "airports":[{"iata":"MLN"}]
         },
         {
         "iso":"BG",
         "country":"Bulgaria",
         "continent":"EU",
         "city":"Gorna Oryahovitsa",
-        "airports":[{"iata":"GOZ"},
-        ]
+        "airports":[{"iata":"GOZ"}]
         },
         {
         "iso":"BG",
         "country":"Bulgaria",
         "continent":"EU",
         "city":"Dolna Mitropoliia / Pleven",
-        "airports":[{"iata":"PVN"},
-        ]
+        "airports":[{"iata":"PVN"}]
         },
         {
         "iso":"HR",
         "country":"Croatia",
         "continent":"EU",
         "city":"Dubrovnik",
-        "airports":[{"iata":"DBV"},
-        ]
+        "airports":[{"iata":"DBV"}]
         },
         {
         "iso":"HR",
         "country":"Croatia",
         "continent":"EU",
         "city":"Osijek",
-        "airports":[{"iata":"OSI"},
-        ]
+        "airports":[{"iata":"OSI"}]
         },
         {
         "iso":"HR",
         "country":"Croatia",
         "continent":"EU",
         "city":"Pula",
-        "airports":[{"iata":"PUY"},
-        ]
+        "airports":[{"iata":"PUY"}]
         },
         {
         "iso":"HR",
         "country":"Croatia",
         "continent":"EU",
         "city":"Rijeka",
-        "airports":[{"iata":"RJK"},
-        ]
+        "airports":[{"iata":"RJK"}]
         },
         {
         "iso":"HR",
         "country":"Croatia",
         "continent":"EU",
         "city":"Brač",
-        "airports":[{"iata":"BWK"},
-        ]
+        "airports":[{"iata":"BWK"}]
         },
         {
         "iso":"HR",
         "country":"Croatia",
         "continent":"EU",
         "city":"Split",
-        "airports":[{"iata":"SPU"},
-        ]
+        "airports":[{"iata":"SPU"}]
         },
         {
         "iso":"HR",
         "country":"Croatia",
         "continent":"EU",
         "city":"Zadar",
-        "airports":[{"iata":"ZAD"},
-        ]
+        "airports":[{"iata":"ZAD"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Asturias",
-        "airports":[{"iata":"OVD"},
-        ]
+        "airports":[{"iata":"OVD"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Bilbao",
-        "airports":[{"iata":"BIO"},
-        ]
+        "airports":[{"iata":"BIO"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Badajoz",
-        "airports":[{"iata":"BJZ"},
-        ]
+        "airports":[{"iata":"BJZ"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Girona",
-        "airports":[{"iata":"GRO"},
-        ]
+        "airports":[{"iata":"GRO"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Granada",
-        "airports":[{"iata":"GRX"},
-        ]
+        "airports":[{"iata":"GRX"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Ibiza",
-        "airports":[{"iata":"IBZ"},
-        ]
+        "airports":[{"iata":"IBZ"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Jerez",
-        "airports":[{"iata":"XRY"},
-        ]
+        "airports":[{"iata":"XRY"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Murcia",
-        "airports":[{"iata":"MJV"},
-        ]
+        "airports":[{"iata":"MJV"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Menorca, Balearic Islands",
-        "airports":[{"iata":"MAH"},
-        ]
+        "airports":[{"iata":"MAH"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Pamplona",
-        "airports":[{"iata":"PNA"},
-        ]
+        "airports":[{"iata":"PNA"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Reus / Tarragona",
-        "airports":[{"iata":"REU"},
-        ]
+        "airports":[{"iata":"REU"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Salamanca",
-        "airports":[{"iata":"SLM"},
-        ]
+        "airports":[{"iata":"SLM"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"San Sebastián",
-        "airports":[{"iata":"EAS"},
-        ]
+        "airports":[{"iata":"EAS"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Valencia / Manises",
-        "airports":[{"iata":"VLC"},
-        ]
+        "airports":[{"iata":"VLC"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Valladolid",
-        "airports":[{"iata":"VLL"},
-        ]
+        "airports":[{"iata":"VLL"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Vitoria-Gasteiz",
-        "airports":[{"iata":"VIT"},
-        ]
+        "airports":[{"iata":"VIT"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Vigo",
-        "airports":[{"iata":"VGO"},
-        ]
+        "airports":[{"iata":"VGO"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Santander / Cantabria",
-        "airports":[{"iata":"SDR"},
-        ]
+        "airports":[{"iata":"SDR"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Zaragoza / Aragon",
-        "airports":[{"iata":"ZAZ"},
-        ]
+        "airports":[{"iata":"ZAZ"}]
         },
         {
         "iso":"ES",
         "country":"Spain",
         "continent":"EU",
         "city":"Sevilla",
-        "airports":[{"iata":"SVQ"},
-        ]
+        "airports":[{"iata":"SVQ"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Dunkerque Airport",
-        "airports":[{"iata":"CQF"},
-        ]
+        "airports":[{"iata":"CQF"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Denain Airport",
-        "airports":[{"iata":"XVS"},
-        ]
+        "airports":[{"iata":"XVS"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Glisy Airport",
-        "airports":[{"iata":"QAM"},
-        ]
+        "airports":[{"iata":"QAM"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"La Garenne Airport",
-        "airports":[{"iata":"AGF"},
-        ]
+        "airports":[{"iata":"AGF"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Biard Airport",
-        "airports":[{"iata":"PIS"},
-        ]
+        "airports":[{"iata":"PIS"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Bellegarde Airport",
-        "airports":[{"iata":"LIG"},
-        ]
+        "airports":[{"iata":"LIG"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Mont-de-Marsan",
-        "airports":[{"iata":"XMJ"},
-        ]
+        "airports":[{"iata":"XMJ"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Anglet Airport",
-        "airports":[{"iata":"BIQ"},
-        ]
+        "airports":[{"iata":"BIQ"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Cahors",
-        "airports":[{"iata":"ZAO"},
-        ]
+        "airports":[{"iata":"ZAO"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Arcachon",
-        "airports":[{"iata":"XAC"},
-        ]
+        "airports":[{"iata":"XAC"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Castres, Mazamet",
-        "airports":[{"iata":"DCM"},
-        ]
+        "airports":[{"iata":"DCM"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Rodez",
-        "airports":[{"iata":"RDZ"},
-        ]
+        "airports":[{"iata":"RDZ"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Montauban",
-        "airports":[{"iata":"XMW"},
-        ]
+        "airports":[{"iata":"XMW"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Libourne",
-        "airports":[{"iata":"XLR"},
-        ]
+        "airports":[{"iata":"XLR"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Rochefort",
-        "airports":[{"iata":"RCO"},
-        ]
+        "airports":[{"iata":"RCO"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Colmar",
-        "airports":[{"iata":"CMR"},
-        ]
+        "airports":[{"iata":"CMR"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Beaune",
-        "airports":[{"iata":"XBV"},
-        ]
+        "airports":[{"iata":"XBV"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Dole",
-        "airports":[{"iata":"DLE"},
-        ]
+        "airports":[{"iata":"DLE"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Verdun",
-        "airports":[{"iata":"XVN"},
-        ]
+        "airports":[{"iata":"XVN"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Le Puy",
-        "airports":[{"iata":"LPY"},
-        ]
+        "airports":[{"iata":"LPY"}]
         },
         {
         "iso":"FR",
@@ -2192,1856 +1920,1624 @@
         "continent":"EU",
         "city":"Metz",
         "airports":[{"iata":"ETZ"},
-        {"iata":"MZM"},
-        ]
+        {"iata":"MZM"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Angers",
-        "airports":[{"iata":"ANE"},
-        ]
+        "airports":[{"iata":"ANE"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Bastia",
-        "airports":[{"iata":"BIA"},
-        ]
+        "airports":[{"iata":"BIA"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Calvi",
-        "airports":[{"iata":"CLY"},
-        ]
+        "airports":[{"iata":"CLY"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Figari",
-        "airports":[{"iata":"FSC"},
-        ]
+        "airports":[{"iata":"FSC"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Solenzara",
-        "airports":[{"iata":"SOZ"},
-        ]
+        "airports":[{"iata":"SOZ"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Auxerre",
-        "airports":[{"iata":"AUF"},
-        ]
+        "airports":[{"iata":"AUF"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Clermont-Ferrand",
-        "airports":[{"iata":"CFE"},
-        ]
+        "airports":[{"iata":"CFE"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Bourges",
-        "airports":[{"iata":"BOU"},
-        ]
+        "airports":[{"iata":"BOU"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Annemasse",
-        "airports":[{"iata":"QNJ"},
-        ]
+        "airports":[{"iata":"QNJ"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Saint-Yan",
-        "airports":[{"iata":"SYT"},
-        ]
+        "airports":[{"iata":"SYT"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Roanne",
-        "airports":[{"iata":"RNE"},
-        ]
+        "airports":[{"iata":"RNE"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Annecy",
-        "airports":[{"iata":"NCY"},
-        ]
+        "airports":[{"iata":"NCY"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Valence",
-        "airports":[{"iata":"VAF"},
-        ]
+        "airports":[{"iata":"VAF"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Vichy",
-        "airports":[{"iata":"VHY"},
-        ]
+        "airports":[{"iata":"VHY"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Aurillac",
-        "airports":[{"iata":"AUR"},
-        ]
+        "airports":[{"iata":"AUR"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Lyon",
-        "airports":[{"iata":"LYN"},
-        ]
+        "airports":[{"iata":"LYN"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Cannes",
-        "airports":[{"iata":"CEQ"},
-        ]
+        "airports":[{"iata":"CEQ"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Carcassonne",
-        "airports":[{"iata":"CCF"},
-        ]
+        "airports":[{"iata":"CCF"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Orange",
-        "airports":[{"iata":"XOG"},
-        ]
+        "airports":[{"iata":"XOG"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Le Castellet",
-        "airports":[{"iata":"CTT"},
-        ]
+        "airports":[{"iata":"CTT"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Avignon",
-        "airports":[{"iata":"AVN"},
-        ]
+        "airports":[{"iata":"AVN"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Mende",
-        "airports":[{"iata":"MEN"},
-        ]
+        "airports":[{"iata":"MEN"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Saumur",
-        "airports":[{"iata":"XSU"},
-        ]
+        "airports":[{"iata":"XSU"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Le Havre",
-        "airports":[{"iata":"LEH"},
-        ]
+        "airports":[{"iata":"LEH"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Buigny-Saint-Maclou Aerodrome",
-        "airports":[{"iata":"XAB"},
-        ]
+        "airports":[{"iata":"XAB"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Rouen",
-        "airports":[{"iata":"URO"},
-        ]
+        "airports":[{"iata":"URO"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Blois",
-        "airports":[{"iata":"XBQ"},
-        ]
+        "airports":[{"iata":"XBQ"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Cholet",
-        "airports":[{"iata":"CET"},
-        ]
+        "airports":[{"iata":"CET"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Laval",
-        "airports":[{"iata":"LVA"},
-        ]
+        "airports":[{"iata":"LVA"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Creil",
-        "airports":[{"iata":"CSF"},
-        ]
+        "airports":[{"iata":"CSF"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Toussus-le-Noble",
-        "airports":[{"iata":"TNF"},
-        ]
+        "airports":[{"iata":"TNF"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Pontoise",
-        "airports":[{"iata":"POX"},
-        ]
+        "airports":[{"iata":"POX"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Troyes",
-        "airports":[{"iata":"QYR"},
-        ]
+        "airports":[{"iata":"QYR"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Nevers",
-        "airports":[{"iata":"NVS"},
-        ]
+        "airports":[{"iata":"NVS"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Lille",
-        "airports":[{"iata":"LIL"},
-        ]
+        "airports":[{"iata":"LIL"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Merville / Hazebrouck",
-        "airports":[{"iata":"HZB"},
-        ]
+        "airports":[{"iata":"HZB"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Vesoul",
-        "airports":[{"iata":"XVO"},
-        ]
+        "airports":[{"iata":"XVO"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Brest",
-        "airports":[{"iata":"BES"},
-        ]
+        "airports":[{"iata":"BES"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Cherbourg",
-        "airports":[{"iata":"CER"},
-        ]
+        "airports":[{"iata":"CER"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Dinard",
-        "airports":[{"iata":"DNR"},
-        ]
+        "airports":[{"iata":"DNR"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"La Baule-Escoublac",
-        "airports":[{"iata":"LBY"},
-        ]
+        "airports":[{"iata":"LBY"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Granville",
-        "airports":[{"iata":"GFR"},
-        ]
+        "airports":[{"iata":"GFR"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Deauville",
-        "airports":[{"iata":"DOL"},
-        ]
+        "airports":[{"iata":"DOL"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Lorient",
-        "airports":[{"iata":"LRT"},
-        ]
+        "airports":[{"iata":"LRT"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"La Roche-sur-Yon",
-        "airports":[{"iata":"EDM"},
-        ]
+        "airports":[{"iata":"EDM"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Landivisiau",
-        "airports":[{"iata":"LDV"},
-        ]
+        "airports":[{"iata":"LDV"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Caen",
-        "airports":[{"iata":"CFR"},
-        ]
+        "airports":[{"iata":"CFR"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Le Mans",
-        "airports":[{"iata":"LME"},
-        ]
+        "airports":[{"iata":"LME"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Saint-Jacques Airport",
-        "airports":[{"iata":"RNS"},
-        ]
+        "airports":[{"iata":"RNS"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Quimper",
-        "airports":[{"iata":"UIP"},
-        ]
+        "airports":[{"iata":"UIP"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Nantes",
-        "airports":[{"iata":"NTE"},
-        ]
+        "airports":[{"iata":"NTE"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Saint-Brieuc",
-        "airports":[{"iata":"SBK"},
-        ]
+        "airports":[{"iata":"SBK"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Morlaix",
-        "airports":[{"iata":"MXN"},
-        ]
+        "airports":[{"iata":"MXN"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Vannes",
-        "airports":[{"iata":"VNE"},
-        ]
+        "airports":[{"iata":"VNE"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Saint-Nazaire",
-        "airports":[{"iata":"SNR"},
-        ]
+        "airports":[{"iata":"SNR"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Basel (Switzerland), Mulhouse (France) and Freiburg (Germany)",
-        "airports":[{"iata":"BSL"},
-        ]
+        "airports":[{"iata":"BSL"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Dijon",
-        "airports":[{"iata":"DIJ"},
-        ]
+        "airports":[{"iata":"DIJ"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Nancy",
-        "airports":[{"iata":"ENC"},
-        ]
+        "airports":[{"iata":"ENC"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Reims",
-        "airports":[{"iata":"RHE"},
-        ]
+        "airports":[{"iata":"RHE"}]
         },
         {
         "iso":"FR",
         "country":"France",
         "continent":"EU",
         "city":"Strasbourg",
-        "airports":[{"iata":"SXB"},
-        ]
+        "airports":[{"iata":"SXB"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Andravida",
-        "airports":[{"iata":"PYR"},
-        ]
+        "airports":[{"iata":"PYR"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Alexandroupolis",
-        "airports":[{"iata":"AXD"},
-        ]
+        "airports":[{"iata":"AXD"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Aghialos/Volos",
-        "airports":[{"iata":"VOL"},
-        ]
+        "airports":[{"iata":"VOL"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Chios",
-        "airports":[{"iata":"JKH"},
-        ]
+        "airports":[{"iata":"JKH"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Ikaria",
-        "airports":[{"iata":"JIK"},
-        ]
+        "airports":[{"iata":"JIK"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Ioannina",
-        "airports":[{"iata":"IOA"},
-        ]
+        "airports":[{"iata":"IOA"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Kastoria",
-        "airports":[{"iata":"KSO"},
-        ]
+        "airports":[{"iata":"KSO"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Kythira (Kithira)",
-        "airports":[{"iata":"KIT"},
-        ]
+        "airports":[{"iata":"KIT"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Kefalonia (Kefallinia, Cephallonia)",
-        "airports":[{"iata":"EFL"},
-        ]
+        "airports":[{"iata":"EFL"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Kalamata",
-        "airports":[{"iata":"KLX"},
-        ]
+        "airports":[{"iata":"KLX"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Kos",
-        "airports":[{"iata":"KGS"},
-        ]
+        "airports":[{"iata":"KGS"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Karpathos",
-        "airports":[{"iata":"AOK"},
-        ]
+        "airports":[{"iata":"AOK"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Corfu (Kerkyra, Kerkira)",
-        "airports":[{"iata":"CFU"},
-        ]
+        "airports":[{"iata":"CFU"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Kavala",
-        "airports":[{"iata":"KVA"},
-        ]
+        "airports":[{"iata":"KVA"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Kozani",
-        "airports":[{"iata":"KZI"},
-        ]
+        "airports":[{"iata":"KZI"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Lemnos (Limnos)",
-        "airports":[{"iata":"LXS"},
-        ]
+        "airports":[{"iata":"LXS"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Mykonos (Mikonos)",
-        "airports":[{"iata":"JMK"},
-        ]
+        "airports":[{"iata":"JMK"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Mytilene (Mitilini), Lesbos",
-        "airports":[{"iata":"MJT"},
-        ]
+        "airports":[{"iata":"MJT"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Astypalaia",
-        "airports":[{"iata":"JTY"},
-        ]
+        "airports":[{"iata":"JTY"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Preveza",
-        "airports":[{"iata":"PVK"},
-        ]
+        "airports":[{"iata":"PVK"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Rhodes (Rhodos, Rodos)",
-        "airports":[{"iata":"RHO"},
-        ]
+        "airports":[{"iata":"RHO"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Araxos",
-        "airports":[{"iata":"GPA"},
-        ]
+        "airports":[{"iata":"GPA"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Chania, Crete",
-        "airports":[{"iata":"CHQ"},
-        ]
+        "airports":[{"iata":"CHQ"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Skiathos",
-        "airports":[{"iata":"JSI"},
-        ]
+        "airports":[{"iata":"JSI"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Samos",
-        "airports":[{"iata":"SMI"},
-        ]
+        "airports":[{"iata":"SMI"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Syros (Siros)",
-        "airports":[{"iata":"JSY"},
-        ]
+        "airports":[{"iata":"JSY"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Santorini (Thira)",
-        "airports":[{"iata":"JTR"},
-        ]
+        "airports":[{"iata":"JTR"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Sitia, Crete",
-        "airports":[{"iata":"JSH"},
-        ]
+        "airports":[{"iata":"JSH"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Skyros (Skiros)",
-        "airports":[{"iata":"SKU"},
-        ]
+        "airports":[{"iata":"SKU"}]
         },
         {
         "iso":"GR",
         "country":"Greece",
         "continent":"EU",
         "city":"Zakynthos (Zakinthos)",
-        "airports":[{"iata":"ZTH"},
-        ]
+        "airports":[{"iata":"ZTH"}]
         },
         {
         "iso":"HU",
         "country":"Hungary",
         "continent":"EU",
         "city":"Debrecen",
-        "airports":[{"iata":"DEB"},
-        ]
+        "airports":[{"iata":"DEB"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Crotone",
-        "airports":[{"iata":"CRV"},
-        ]
+        "airports":[{"iata":"CRV"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Foggia",
-        "airports":[{"iata":"FOG"},
-        ]
+        "airports":[{"iata":"FOG"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Taranto",
-        "airports":[{"iata":"TAR"},
-        ]
+        "airports":[{"iata":"TAR"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Lecce",
-        "airports":[{"iata":"LCC"},
-        ]
+        "airports":[{"iata":"LCC"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Pescara",
-        "airports":[{"iata":"PSR"},
-        ]
+        "airports":[{"iata":"PSR"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Brindisi",
-        "airports":[{"iata":"BDS"},
-        ]
+        "airports":[{"iata":"BDS"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Lamezia Terme, Catanzaro",
-        "airports":[{"iata":"SUF"},
-        ]
+        "airports":[{"iata":"SUF"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Comiso",
-        "airports":[{"iata":"CIY"},
-        ]
+        "airports":[{"iata":"CIY"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Lampedusa",
-        "airports":[{"iata":"LMP"},
-        ]
+        "airports":[{"iata":"LMP"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Reggio Calabria",
-        "airports":[{"iata":"REG"},
-        ]
+        "airports":[{"iata":"REG"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Trapani",
-        "airports":[{"iata":"TPS"},
-        ]
+        "airports":[{"iata":"TPS"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Catania",
-        "airports":[{"iata":"NSY"},
-        ]
+        "airports":[{"iata":"NSY"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Ravenna",
-        "airports":[{"iata":"RAN"},
-        ]
+        "airports":[{"iata":"RAN"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Trento",
-        "airports":[{"iata":"ZIA"},
-        ]
+        "airports":[{"iata":"ZIA"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Alghero, Sassari",
-        "airports":[{"iata":"AHO"},
-        ]
+        "airports":[{"iata":"AHO"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Decimomannu, Cagliari",
-        "airports":[{"iata":"DCI"},
-        ]
+        "airports":[{"iata":"DCI"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Costa Smeralda Airport",
-        "airports":[{"iata":"OLB"},
-        ]
+        "airports":[{"iata":"OLB"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Arbatax Airport",
-        "airports":[{"iata":"TTB"},
-        ]
+        "airports":[{"iata":"TTB"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Varese",
-        "airports":[{"iata":"QVA"},
-        ]
+        "airports":[{"iata":"QVA"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Albenga, Savona",
-        "airports":[{"iata":"ALL"},
-        ]
+        "airports":[{"iata":"ALL"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Parma",
-        "airports":[{"iata":"PMF"},
-        ]
+        "airports":[{"iata":"PMF"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Piacenza",
-        "airports":[{"iata":"QPZ"},
-        ]
+        "airports":[{"iata":"QPZ"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Aosta",
-        "airports":[{"iata":"AOT"},
-        ]
+        "airports":[{"iata":"AOT"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Cuneo",
-        "airports":[{"iata":"CUF"},
-        ]
+        "airports":[{"iata":"CUF"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Aviano, Pordenone",
-        "airports":[{"iata":"AVB"},
-        ]
+        "airports":[{"iata":"AVB"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Bolzano, Bolzano-Bozen",
-        "airports":[{"iata":"BZO"},
-        ]
+        "airports":[{"iata":"BZO"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Brescia",
-        "airports":[{"iata":"VBS"},
-        ]
+        "airports":[{"iata":"VBS"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Ronchi dei Legionari / Trieste",
-        "airports":[{"iata":"TRS"},
-        ]
+        "airports":[{"iata":"TRS"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Rimini",
-        "airports":[{"iata":"RMI"},
-        ]
+        "airports":[{"iata":"RMI"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Vicenza",
-        "airports":[{"iata":"VIC"},
-        ]
+        "airports":[{"iata":"VIC"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Ancona",
-        "airports":[{"iata":"AOI"},
-        ]
+        "airports":[{"iata":"AOI"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Siena",
-        "airports":[{"iata":"SAY"},
-        ]
+        "airports":[{"iata":"SAY"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Marina di Campo, Elba",
-        "airports":[{"iata":"EBA"},
-        ]
+        "airports":[{"iata":"EBA"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Florence (Firenze)",
-        "airports":[{"iata":"FLR"},
-        ]
+        "airports":[{"iata":"FLR"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Grosseto",
-        "airports":[{"iata":"GRS"},
-        ]
+        "airports":[{"iata":"GRS"}]
         },
         {
         "iso":"IT",
         "country":"Italy",
         "continent":"EU",
         "city":"Perugia",
-        "airports":[{"iata":"PEG"},
-        ]
+        "airports":[{"iata":"PEG"}]
         },
         {
         "iso":"SI",
         "country":"Slovenia",
         "continent":"EU",
         "city":"Maribor",
-        "airports":[{"iata":"MBX"},
-        ]
+        "airports":[{"iata":"MBX"}]
         },
         {
         "iso":"SI",
         "country":"Slovenia",
         "continent":"EU",
         "city":"Portorož",
-        "airports":[{"iata":"POW"},
-        ]
+        "airports":[{"iata":"POW"}]
         },
         {
         "iso":"CZ",
         "country":"Czech Republic",
         "continent":"EU",
         "city":"Kunovice",
-        "airports":[{"iata":"UHE"},
-        ]
+        "airports":[{"iata":"UHE"}]
         },
         {
         "iso":"CZ",
         "country":"Czech Republic",
         "continent":"EU",
         "city":"Karlovy Vary",
-        "airports":[{"iata":"KLV"},
-        ]
+        "airports":[{"iata":"KLV"}]
         },
         {
         "iso":"CZ",
         "country":"Czech Republic",
         "continent":"EU",
         "city":"Pardubice",
-        "airports":[{"iata":"PED"},
-        ]
+        "airports":[{"iata":"PED"}]
         },
         {
         "iso":"CZ",
         "country":"Czech Republic",
         "continent":"EU",
         "city":"Prerov",
-        "airports":[{"iata":"PRV"},
-        ]
+        "airports":[{"iata":"PRV"}]
         },
         {
         "iso":"CZ",
         "country":"Czech Republic",
         "continent":"EU",
         "city":"Brno",
-        "airports":[{"iata":"BRQ"},
-        ]
+        "airports":[{"iata":"BRQ"}]
         },
         {
         "iso":"AT",
         "country":"Austria",
         "continent":"EU",
         "city":"Graz",
-        "airports":[{"iata":"GRZ"},
-        ]
+        "airports":[{"iata":"GRZ"}]
         },
         {
         "iso":"AT",
         "country":"Austria",
         "continent":"EU",
         "city":"Innsbruck",
-        "airports":[{"iata":"INN"},
-        ]
+        "airports":[{"iata":"INN"}]
         },
         {
         "iso":"AT",
         "country":"Austria",
         "continent":"EU",
         "city":"Klagenfurt",
-        "airports":[{"iata":"KLU"},
-        ]
+        "airports":[{"iata":"KLU"}]
         },
         {
         "iso":"AT",
         "country":"Austria",
         "continent":"EU",
         "city":"Linz",
-        "airports":[{"iata":"LNZ"},
-        ]
+        "airports":[{"iata":"LNZ"}]
         },
         {
         "iso":"AT",
         "country":"Austria",
         "continent":"EU",
         "city":"Salzburg",
-        "airports":[{"iata":"SZG"},
-        ]
+        "airports":[{"iata":"SZG"}]
         },
         {
         "iso":"PT",
         "country":"Portugal",
         "continent":"EU",
         "city":"Santa Maria Island",
-        "airports":[{"iata":"SMA"},
-        ]
+        "airports":[{"iata":"SMA"}]
         },
         {
         "iso":"PT",
         "country":"Portugal",
         "continent":"EU",
         "city":"Bragança",
-        "airports":[{"iata":"BGC"},
-        ]
+        "airports":[{"iata":"BGC"}]
         },
         {
         "iso":"PT",
         "country":"Portugal",
         "continent":"EU",
         "city":"Braga",
-        "airports":[{"iata":"BGZ"},
-        ]
+        "airports":[{"iata":"BGZ"}]
         },
         {
         "iso":"PT",
         "country":"Portugal",
         "continent":"EU",
         "city":"Coimbra",
-        "airports":[{"iata":"CBP"},
-        ]
+        "airports":[{"iata":"CBP"}]
         },
         {
         "iso":"PT",
         "country":"Portugal",
         "continent":"EU",
         "city":"Covilhã",
-        "airports":[{"iata":"COV"},
-        ]
+        "airports":[{"iata":"COV"}]
         },
         {
         "iso":"PT",
         "country":"Portugal",
         "continent":"EU",
         "city":"Flores Island",
-        "airports":[{"iata":"FLW"},
-        ]
+        "airports":[{"iata":"FLW"}]
         },
         {
         "iso":"PT",
         "country":"Portugal",
         "continent":"EU",
         "city":"Graciosa Island",
-        "airports":[{"iata":"GRW"},
-        ]
+        "airports":[{"iata":"GRW"}]
         },
         {
         "iso":"PT",
         "country":"Portugal",
         "continent":"EU",
         "city":"Horta, Faial Island",
-        "airports":[{"iata":"HOR"},
-        ]
+        "airports":[{"iata":"HOR"}]
         },
         {
         "iso":"PT",
         "country":"Portugal",
         "continent":"EU",
         "city":"Funchal, Madeira Island",
-        "airports":[{"iata":"FNC"},
-        ]
+        "airports":[{"iata":"FNC"}]
         },
         {
         "iso":"PT",
         "country":"Portugal",
         "continent":"EU",
         "city":"Montijo",
-        "airports":[{"iata":"PAF"},
-        ]
+        "airports":[{"iata":"PAF"}]
         },
         {
         "iso":"PT",
         "country":"Portugal",
         "continent":"EU",
         "city":"Pico Island",
-        "airports":[{"iata":"PIX"},
-        ]
+        "airports":[{"iata":"PIX"}]
         },
         {
         "iso":"PT",
         "country":"Portugal",
         "continent":"EU",
         "city":"Portimão",
-        "airports":[{"iata":"PRM"},
-        ]
+        "airports":[{"iata":"PRM"}]
         },
         {
         "iso":"PT",
         "country":"Portugal",
         "continent":"EU",
         "city":"Porto Santo Island",
-        "airports":[{"iata":"PXO"},
-        ]
+        "airports":[{"iata":"PXO"}]
         },
         {
         "iso":"PT",
         "country":"Portugal",
         "continent":"EU",
         "city":"Vila Real",
-        "airports":[{"iata":"VRL"},
-        ]
+        "airports":[{"iata":"VRL"}]
         },
         {
         "iso":"PT",
         "country":"Portugal",
         "continent":"EU",
         "city":"Viseu",
-        "airports":[{"iata":"VSE"},
-        ]
+        "airports":[{"iata":"VSE"}]
         },
         {
         "iso":"BA",
         "country":"Bosnia and Herzegowina",
         "continent":"EU",
         "city":"Banja Luka",
-        "airports":[{"iata":"BNX"},
-        ]
+        "airports":[{"iata":"BNX"}]
         },
         {
         "iso":"BA",
         "country":"Bosnia and Herzegowina",
         "continent":"EU",
         "city":"Mostar",
-        "airports":[{"iata":"OMO"},
-        ]
+        "airports":[{"iata":"OMO"}]
         },
         {
         "iso":"BA",
         "country":"Bosnia and Herzegowina",
         "continent":"EU",
         "city":"Tuzla",
-        "airports":[{"iata":"TZL"},
-        ]
+        "airports":[{"iata":"TZL"}]
         },
         {
         "iso":"RO",
         "country":"Romania",
         "continent":"EU",
         "city":"Arad",
-        "airports":[{"iata":"ARW"},
-        ]
+        "airports":[{"iata":"ARW"}]
         },
         {
         "iso":"RO",
         "country":"Romania",
         "continent":"EU",
         "city":"Bacau",
-        "airports":[{"iata":"BCM"},
-        ]
+        "airports":[{"iata":"BCM"}]
         },
         {
         "iso":"RO",
         "country":"Romania",
         "continent":"EU",
         "city":"Baia Mare",
-        "airports":[{"iata":"BAY"},
-        ]
+        "airports":[{"iata":"BAY"}]
         },
         {
         "iso":"RO",
         "country":"Romania",
         "continent":"EU",
         "city":"Bucharest",
-        "airports":[{"iata":"BBU"},
-        ]
+        "airports":[{"iata":"BBU"}]
         },
         {
         "iso":"RO",
         "country":"Romania",
         "continent":"EU",
         "city":"Constanta",
-        "airports":[{"iata":"CND"},
-        ]
+        "airports":[{"iata":"CND"}]
         },
         {
         "iso":"RO",
         "country":"Romania",
         "continent":"EU",
         "city":"Cluj-Napoca",
-        "airports":[{"iata":"CLJ"},
-        ]
+        "airports":[{"iata":"CLJ"}]
         },
         {
         "iso":"RO",
         "country":"Romania",
         "continent":"EU",
         "city":"Caransebes",
-        "airports":[{"iata":"CSB"},
-        ]
+        "airports":[{"iata":"CSB"}]
         },
         {
         "iso":"RO",
         "country":"Romania",
         "continent":"EU",
         "city":"Craiova",
-        "airports":[{"iata":"CRA"},
-        ]
+        "airports":[{"iata":"CRA"}]
         },
         {
         "iso":"RO",
         "country":"Romania",
         "continent":"EU",
         "city":"Iași",
-        "airports":[{"iata":"IAS"},
-        ]
+        "airports":[{"iata":"IAS"}]
         },
         {
         "iso":"RO",
         "country":"Romania",
         "continent":"EU",
         "city":"Oradea",
-        "airports":[{"iata":"OMR"},
-        ]
+        "airports":[{"iata":"OMR"}]
         },
         {
         "iso":"RO",
         "country":"Romania",
         "continent":"EU",
         "city":"Sibiu",
-        "airports":[{"iata":"SBZ"},
-        ]
+        "airports":[{"iata":"SBZ"}]
         },
         {
         "iso":"RO",
         "country":"Romania",
         "continent":"EU",
         "city":"Satu Mare",
-        "airports":[{"iata":"SUJ"},
-        ]
+        "airports":[{"iata":"SUJ"}]
         },
         {
         "iso":"RO",
         "country":"Romania",
         "continent":"EU",
         "city":"Suceava",
-        "airports":[{"iata":"SCV"},
-        ]
+        "airports":[{"iata":"SCV"}]
         },
         {
         "iso":"RO",
         "country":"Romania",
         "continent":"EU",
         "city":"Tulcea",
-        "airports":[{"iata":"TCE"},
-        ]
+        "airports":[{"iata":"TCE"}]
         },
         {
         "iso":"RO",
         "country":"Romania",
         "continent":"EU",
         "city":"Timișoara",
-        "airports":[{"iata":"TSR"},
-        ]
+        "airports":[{"iata":"TSR"}]
         },
         {
         "iso":"CH",
         "country":"Switzerland",
         "continent":"EU",
         "city":"Sion — the ICAO code applies to the civilian airport only",
-        "airports":[{"iata":"SIR"},
-        ]
+        "airports":[{"iata":"SIR"}]
         },
         {
         "iso":"CH",
         "country":"Switzerland",
         "continent":"EU",
         "city":"Lugano",
-        "airports":[{"iata":"LUG"},
-        ]
+        "airports":[{"iata":"LUG"}]
         },
         {
         "iso":"CH",
         "country":"Switzerland",
         "continent":"EU",
         "city":"Berne",
-        "airports":[{"iata":"BRN"},
-        ]
+        "airports":[{"iata":"BRN"}]
         },
         {
         "iso":"CH",
         "country":"Switzerland",
         "continent":"EU",
         "city":"Altenrhein",
-        "airports":[{"iata":"ACH"},
-        ]
+        "airports":[{"iata":"ACH"}]
         },
         {
         "iso":"CH",
         "country":"Switzerland",
         "continent":"EU",
         "city":"Samedan",
-        "airports":[{"iata":"SMV"},
-        ]
+        "airports":[{"iata":"SMV"}]
         },
         {
         "iso":"MD",
         "country":"Moldova, Republic of",
         "continent":"EU",
         "city":"Bălți ",
-        "airports":[{"iata":"BZY"},
-        ]
+        "airports":[{"iata":"BZY"}]
         },
         {
         "iso":"MD",
         "country":"Moldova, Republic of",
         "continent":"EU",
         "city":"Chișinău",
-        "airports":[{"iata":"KIV"},
-        ]
+        "airports":[{"iata":"KIV"}]
         },
         {
         "iso":"MK",
         "country":"Macedonia",
         "continent":"EU",
         "city":"Ohrid",
-        "airports":[{"iata":"OHD"},
-        ]
+        "airports":[{"iata":"OHD"}]
         },
         {
         "iso":"MK",
         "country":"Macedonia",
         "continent":"EU",
         "city":"Skopje",
-        "airports":[{"iata":"SKP"},
-        ]
+        "airports":[{"iata":"SKP"}]
         },
         {
         "iso":"GI",
         "country":"Gibraltar",
         "continent":"EU",
         "city":"Gibraltar",
-        "airports":[{"iata":"GIB"},
-        ]
+        "airports":[{"iata":"GIB"}]
         },
         {
         "iso":"RS",
         "country":"Serbia",
         "continent":"EU",
         "city":"Batajnica / Belgrade",
-        "airports":[{"iata":"BJY"},
-        ]
+        "airports":[{"iata":"BJY"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Provideniya, Russia",
-        "airports":[{"iata":"PVS"},
-        ]
+        "airports":[{"iata":"PVS"}]
         },
         {
         "iso":"UA",
         "country":"Ukraine",
         "continent":"EU",
         "city":"Mariupol, Ukraine",
-        "airports":[{"iata":"MPW"},
-        ]
+        "airports":[{"iata":"MPW"}]
         },
         {
         "iso":"UA",
         "country":"Ukraine",
         "continent":"EU",
         "city":"Luhansk, Ukraine",
-        "airports":[{"iata":"VSG"},
-        ]
+        "airports":[{"iata":"VSG"}]
         },
         {
         "iso":"UA",
         "country":"Ukraine",
         "continent":"EU",
         "city":"Dnipropetrovsk, Ukraine",
-        "airports":[{"iata":"DNK"},
-        ]
+        "airports":[{"iata":"DNK"}]
         },
         {
         "iso":"UA",
         "country":"Ukraine",
         "continent":"EU",
         "city":"Zaporizhia, Ukraine",
-        "airports":[{"iata":"OZH"},
-        ]
+        "airports":[{"iata":"OZH"}]
         },
         {
         "iso":"UA",
         "country":"Ukraine",
         "continent":"EU",
         "city":"Kryvyi Rih, Ukraine",
-        "airports":[{"iata":"KWG"},
-        ]
+        "airports":[{"iata":"KWG"}]
         },
         {
         "iso":"UA",
         "country":"Ukraine",
         "continent":"EU",
         "city":"Sevastopol, Autonomous Republic of Crimea",
-        "airports":[{"iata":"UKS"},
-        ]
+        "airports":[{"iata":"UKS"}]
         },
         {
         "iso":"UA",
         "country":"Ukraine",
         "continent":"EU",
         "city":"Cherkasy, Ukraine",
-        "airports":[{"iata":"CKC"},
-        ]
+        "airports":[{"iata":"CKC"}]
         },
         {
         "iso":"UA",
         "country":"Ukraine",
         "continent":"EU",
         "city":"Kiev, Ukraine",
-        "airports":[{"iata":"IEV"},
-        ]
+        "airports":[{"iata":"IEV"}]
         },
         {
         "iso":"UA",
         "country":"Ukraine",
         "continent":"EU",
         "city":"Gostomel, Ukraine",
-        "airports":[{"iata":"GML"},
-        ]
+        "airports":[{"iata":"GML"}]
         },
         {
         "iso":"UA",
         "country":"Ukraine",
         "continent":"EU",
         "city":"Khmelnytskyi, Ukraine",
-        "airports":[{"iata":"HMJ"},
-        ]
+        "airports":[{"iata":"HMJ"}]
         },
         {
         "iso":"UA",
         "country":"Ukraine",
         "continent":"EU",
         "city":"Ivano-Frankivsk, Ukraine",
-        "airports":[{"iata":"IFO"},
-        ]
+        "airports":[{"iata":"IFO"}]
         },
         {
         "iso":"UA",
         "country":"Ukraine",
         "continent":"EU",
         "city":"Lviv, Ukraine",
-        "airports":[{"iata":"LWO"},
-        ]
+        "airports":[{"iata":"LWO"}]
         },
         {
         "iso":"UA",
         "country":"Ukraine",
         "continent":"EU",
         "city":"Chernivtsi, Ukraine",
-        "airports":[{"iata":"CWC"},
-        ]
+        "airports":[{"iata":"CWC"}]
         },
         {
         "iso":"UA",
         "country":"Ukraine",
         "continent":"EU",
         "city":"Rivne, Ukraine",
-        "airports":[{"iata":"RWN"},
-        ]
+        "airports":[{"iata":"RWN"}]
         },
         {
         "iso":"UA",
         "country":"Ukraine",
         "continent":"EU",
         "city":"Uzhhorod, Ukraine",
-        "airports":[{"iata":"UDJ"},
-        ]
+        "airports":[{"iata":"UDJ"}]
         },
         {
         "iso":"UA",
         "country":"Ukraine",
         "continent":"EU",
         "city":"Mykolaiv, Ukraine",
-        "airports":[{"iata":"NLV"},
-        ]
+        "airports":[{"iata":"NLV"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Arkhangelsk, Russia",
-        "airports":[{"iata":"ARH"},
-        ]
+        "airports":[{"iata":"ARH"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Naryan-Mar, Russia",
-        "airports":[{"iata":"NNM"},
-        ]
+        "airports":[{"iata":"NNM"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Cherepovets, Vologda Oblast",
-        "airports":[{"iata":"CEE"},
-        ]
+        "airports":[{"iata":"CEE"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Kotlas, Russia",
-        "airports":[{"iata":"KSZ"},
-        ]
+        "airports":[{"iata":"KSZ"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Murmansk, Russia",
-        "airports":[{"iata":"MMK"},
-        ]
+        "airports":[{"iata":"MMK"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Velikiye Luki, Russia",
-        "airports":[{"iata":"VLU"},
-        ]
+        "airports":[{"iata":"VLU"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Pskov, Russia",
-        "airports":[{"iata":"PKV"},
-        ]
+        "airports":[{"iata":"PKV"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Petrozavodsk, Russia",
-        "airports":[{"iata":"PES"},
-        ]
+        "airports":[{"iata":"PES"}]
         },
         {
         "iso":"BY",
         "country":"Belarus",
         "continent":"EU",
         "city":"Brest, Belarus",
-        "airports":[{"iata":"BQT"},
-        ]
+        "airports":[{"iata":"BQT"}]
         },
         {
         "iso":"BY",
         "country":"Belarus",
         "continent":"EU",
         "city":"Gomel, Belarus",
-        "airports":[{"iata":"GME"},
-        ]
+        "airports":[{"iata":"GME"}]
         },
         {
         "iso":"BY",
         "country":"Belarus",
         "continent":"EU",
         "city":"Vitebsk, Belarus",
-        "airports":[{"iata":"VTB"},
-        ]
+        "airports":[{"iata":"VTB"}]
         },
         {
         "iso":"RU",
         "country":"Belarus",
         "continent":"EU",
         "city":"Kaliningrad, Russia",
-        "airports":[{"iata":"KGD"},
-        ]
+        "airports":[{"iata":"KGD"}]
         },
         {
         "iso":"BY",
         "country":"Belarus",
         "continent":"EU",
         "city":"Obukhovo, Belarus",
-        "airports":[{"iata":"GNA"},
-        ]
+        "airports":[{"iata":"GNA"}]
         },
         {
         "iso":"BY",
         "country":"Belarus",
         "continent":"EU",
         "city":"Minsk, Belarus",
-        "airports":[{"iata":"MHP"},
-        ]
+        "airports":[{"iata":"MHP"}]
         },
         {
         "iso":"BY",
         "country":"Belarus",
         "continent":"EU",
         "city":"Mogilev, Belarus",
-        "airports":[{"iata":"MVQ"},
-        ]
+        "airports":[{"iata":"MVQ"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Anapa, Russia",
-        "airports":[{"iata":"AAQ"},
-        ]
+        "airports":[{"iata":"AAQ"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Krasnodar, Russia",
-        "airports":[{"iata":"KRR"},
-        ]
+        "airports":[{"iata":"KRR"}]
         },
         {
         "iso":"RU",
         "country":"United States",
         "continent":"EU",
         "city":"Monticello, IN",
-        "airports":[{"iata":"MCX"},
-        ]
+        "airports":[{"iata":"MCX"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Mineralnye Vody, Russia",
-        "airports":[{"iata":"MRV"},
-        ]
+        "airports":[{"iata":"MRV"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Nalchik, Russia",
-        "airports":[{"iata":"NAL"},
-        ]
+        "airports":[{"iata":"NAL"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Vladikavkaz, Russia",
-        "airports":[{"iata":"OGZ"},
-        ]
+        "airports":[{"iata":"OGZ"}]
         },
         {
         "iso":"RU",
         "country":"United States",
         "continent":"EU",
         "city":"Nightmute, AK",
-        "airports":[{"iata":"IGT"},
-        ]
+        "airports":[{"iata":"IGT"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Stavropol, Russia",
-        "airports":[{"iata":"STW"},
-        ]
+        "airports":[{"iata":"STW"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Rostov-on-Don, Russia",
-        "airports":[{"iata":"ROV"},
-        ]
+        "airports":[{"iata":"ROV"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Astrakhan, Russia",
-        "airports":[{"iata":"ASF"},
-        ]
+        "airports":[{"iata":"ASF"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Elista, Russia",
-        "airports":[{"iata":"ESL"},
-        ]
+        "airports":[{"iata":"ESL"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Volgograd, Russia",
-        "airports":[{"iata":"VOG"},
-        ]
+        "airports":[{"iata":"VOG"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Magnitogorsk, Russia",
-        "airports":[{"iata":"MQF"},
-        ]
+        "airports":[{"iata":"MQF"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Izhevsk, Russia",
-        "airports":[{"iata":"IJK"},
-        ]
+        "airports":[{"iata":"IJK"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Kirov, Russia",
-        "airports":[{"iata":"KVX"},
-        ]
+        "airports":[{"iata":"KVX"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Perm, Russia",
-        "airports":[{"iata":"PEE"},
-        ]
+        "airports":[{"iata":"PEE"}]
         },
         {
         "iso":"RU",
@@ -4049,183 +3545,161 @@
         "continent":"EU",
         "city":"Moscow, Russia",
         "airports":[{"iata":"BKA"},
-        {"iata":"VKO"},
-        ]
+        {"iata":"VKO"}]
         },
         {
         "iso":"RU",
         "country":"United States",
         "continent":"EU",
         "city":"Phoenix, AZ",
-        "airports":[{"iata":"IWA"},
-        ]
+        "airports":[{"iata":"IWA"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Bryansk, Russia",
-        "airports":[{"iata":"BZK"},
-        ]
+        "airports":[{"iata":"BZK"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Tver, Russia",
-        "airports":[{"iata":"KLD"},
-        ]
+        "airports":[{"iata":"KLD"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Belgorod, Russia",
-        "airports":[{"iata":"EGO"},
-        ]
+        "airports":[{"iata":"EGO"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Voronezh, Russia",
-        "airports":[{"iata":"VOZ"},
-        ]
+        "airports":[{"iata":"VOZ"}]
         },
         {
         "iso":"RU",
         "country":"United States",
         "continent":"EU",
         "city":"Oakley, KS",
-        "airports":[{"iata":"OEL"},
-        ]
+        "airports":[{"iata":"OEL"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Ukhta, Russia",
-        "airports":[{"iata":"UCT"},
-        ]
+        "airports":[{"iata":"UCT"}]
         },
         {
         "iso":"RU",
         "country":"United States",
         "continent":"EU",
         "city":"Paynesville, MN",
-        "airports":[{"iata":"PEX"},
-        ]
+        "airports":[{"iata":"PEX"}]
         },
         {
         "iso":"RU",
         "country":"United States",
         "continent":"EU",
         "city":"Huntsville, TX",
-        "airports":[{"iata":"UTS"},
-        ]
+        "airports":[{"iata":"UTS"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Syktyvkar, Russia",
-        "airports":[{"iata":"SCW"},
-        ]
+        "airports":[{"iata":"SCW"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Nizhny Novgorod, Russia",
-        "airports":[{"iata":"GOJ"},
-        ]
+        "airports":[{"iata":"GOJ"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Kazan, Russia",
-        "airports":[{"iata":"KZN"},
-        ]
+        "airports":[{"iata":"KZN"}]
         },
         {
         "iso":"RU",
         "country":"United States",
         "continent":"EU",
         "city":"Beaufort, SC",
-        "airports":[{"iata":"NBC"},
-        ]
+        "airports":[{"iata":"NBC"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Yoshkar-Ola, Russia",
-        "airports":[{"iata":"JOK"},
-        ]
+        "airports":[{"iata":"JOK"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Cheboksary, Russia",
-        "airports":[{"iata":"CSY"},
-        ]
+        "airports":[{"iata":"CSY"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Ulyanovsk, Russia",
-        "airports":[{"iata":"ULY"},
-        ]
+        "airports":[{"iata":"ULY"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Orenburg, Russia",
-        "airports":[{"iata":"REN"},
-        ]
+        "airports":[{"iata":"REN"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Orsk, Russia",
-        "airports":[{"iata":"OSW"},
-        ]
+        "airports":[{"iata":"OSW"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Penza, Russia",
-        "airports":[{"iata":"PEZ"},
-        ]
+        "airports":[{"iata":"PEZ"}]
         },
         {
         "iso":"RU",
         "country":"United States",
         "continent":"EU",
         "city":"Taos, NM",
-        "airports":[{"iata":"SKX"},
-        ]
+        "airports":[{"iata":"SKX"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Balakovo, Saratov Oblast",
-        "airports":[{"iata":"BWO"},
-        ]
+        "airports":[{"iata":"BWO"}]
         },
         {
         "iso":"RU",
         "country":"Russian Federation",
         "continent":"EU",
         "city":"Saratov, Russia",
-        "airports":[{"iata":"RTW"},
-        ]
-        },
+        "airports":[{"iata":"RTW"}]
+        }
+]
         
